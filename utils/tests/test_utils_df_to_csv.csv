@@ -1,0 +1,4 @@
+ISIN,pubDate,title,source,author,url,categories
+US5949181045,2019-11-26T18:13:00.000Z,Walmart.org ###,Source1,Author1,https://www.source1.com,['Category1']
+US5949181045,2019-11-26T14:04:00.000Z,AT&T ###,Source2,,https://www.source2.com,"['Category2', 'Category3']"
+US5949181045,2019-11-26T13:00:00.000Z,AT&T ###,Source3,,https://www.source3.com,"['Category2', 'Category3']"

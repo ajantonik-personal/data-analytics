@@ -1,0 +1,3 @@
+USERNAME=username@website.com
+PASSWORD=PA$$W0RD
+APPID=MyTestApplication
