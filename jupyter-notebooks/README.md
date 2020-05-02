@@ -5,9 +5,7 @@
 Search the Spotify API for artists and retrieve their metadata. Then, classify artists by their genres, and determine other artists to recommend based on genre similarity.
 
 #### Implementation
-The user can choose to enter artists manually in the notebook or populate an artist list in [spotify_artists.txt](/jupyter-notebooks/config/spotify_artists.txt) for which the analysis will be performed.
-
-The user can also choose whether to have artists recommended. If not, only the metadata and initial genre classification of the artists selected will be output.
+The user can choose to enter artists manually in the notebook or populate an artist list in [spotify_artists.txt](/jupyter-notebooks/config/spotify_artists.txt) for which the analysis will be performed. The user can also choose whether to have artists recommended. If not, only the metadata and initial genre classification of the artists selected will be output. Finally, the user can choose whether to have graphs of the results displayed -- otherwise, only dataframes will be shown.
 
 Once parameters are set, the notebook authenticates Spotify API credentials (stored locally & acceessed via environment variable). 
 
