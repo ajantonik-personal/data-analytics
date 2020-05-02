@@ -16,6 +16,7 @@ It then extracts metadata from the Spotify API artist search route and stores it
 #### Examples
 
 [All Artists From File](/jupyter-notebooks/spotify_api_artist_search_example_all.ipynb)
+
 [Manually Selected Artists](/jupyter-notebooks/spotify_api_artist_search_example_manual.ipynb)
 
 #### TODOs
